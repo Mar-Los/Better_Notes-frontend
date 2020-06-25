@@ -1,16 +1,13 @@
-# cloud_note_app
+# Better Notes - frontend
+This is a frontend for a mobile app, its backend can be found in this [repository](https://github.com/Mar-Los/Better_Notes-backend). The goal of this app is to store interestingly formated notes in a folder system in a database.
 
-A new Flutter project.
+### Currently supported formats
+- Text - plain text notes
+- Dictionaries - notes displayed in lines, every line has a key column and a value column (like a dictionary)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Used technologies
+- [Flutter]
+- [Http](https://pub.dev/packages/http) - a Flutter library for making HTTP requests
+- [Provider](https://pub.dev/packages/provider) - a Flutter package for managing the state of the app
+- [Connectivity](https://pub.dev/packages/connectivity) - a Flutter plugin for discovering the state of the network
+- [Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons) - A package which simplifies the task of updating launcher icons for Flutter apps.
