@@ -6,7 +6,7 @@ This is a frontend for a mobile app, its backend can be found in this [repositor
 - Dictionaries - notes displayed in lines, every line has a key column and a value column (like a dictionary)
 
 ### Used technologies
-- [Flutter]
+- [Flutter](https://flutter.dev/)
 - [Http](https://pub.dev/packages/http) - a Flutter library for making HTTP requests
 - [Provider](https://pub.dev/packages/provider) - a Flutter package for managing the state of the app
 - [Connectivity](https://pub.dev/packages/connectivity) - a Flutter plugin for discovering the state of the network
