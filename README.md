@@ -1,5 +1,5 @@
 # Better Notes - frontend
-This is a frontend for a mobile app, its backend can be found in this [repository](https://github.com/Mar-Los/Better_Notes-backend). The goal of this app is to store interestingly formated notes in a folder system in a database.
+This is a frontend for a mobile app, its backend can be found in this [repository](https://github.com/Mar-Los/Better_Notes-backend). The goal of this app is to store interestingly formatted notes in a folder system in a database.
 
 ### Currently supported formats
 - Text - plain text notes
