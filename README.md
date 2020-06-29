@@ -7,7 +7,7 @@ This is a frontend for a mobile app, its backend can be found in this [repositor
 
 ### Used technologies
 - [Flutter](https://flutter.dev/)
-- [Http](https://pub.dev/packages/http) - a Flutter library for making HTTP requests
-- [Provider](https://pub.dev/packages/provider) - a Flutter package for managing the state of the app
-- [Connectivity](https://pub.dev/packages/connectivity) - a Flutter plugin for discovering the state of the network
-- [Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons) - A package which simplifies the task of updating launcher icons for Flutter apps.
+- [Http](https://pub.dev/packages/http) - Flutter library for making HTTP requests
+- [Provider](https://pub.dev/packages/provider) - Flutter package for managing the state of the app
+- [Connectivity](https://pub.dev/packages/connectivity) - Flutter plugin for discovering the state of the network
+- [Flutter Launcher Icons](https://pub.dev/packages/flutter_launcher_icons) - package which simplifies the task of updating launcher icons for Flutter apps.
